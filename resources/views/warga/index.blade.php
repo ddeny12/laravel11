@@ -29,7 +29,6 @@
                 <th>NIK</th>
                 <th>Alamat</th>
                 <th>Jenis Kelamin</th>
-                <th>RONY</th>
             </tr>
         </thead>
         <tbody>
