@@ -10,4 +10,6 @@ class Warga extends Model
     use HasFactory;
 
     protected $table = 'warga';
+    
+    protected $primayKey ="id_barang";
 }
